@@ -4,7 +4,7 @@ const request = require('request');
 const APP_ID = "amzn1.ask.skill.b24abd0e-ee7d-42c8-ac54-be0eaed90daa";
 
 
-const LAUNCH_MESSAGE = "Hello! I am your scratch chatbot. To begin, ask me anything or say connect followed by your 5-digit access code";
+const LAUNCH_MESSAGE = "Hello! I am your personal chatbot. To begin, ask me anything or say connect followed by your 5-digit access code";
 const LAUNCH_REPROMPT = "You did not say anything. ";
 const CANCEL_MESSAGE = "Cancelled";
 const STOP_MESSAGE = "Stopped";
